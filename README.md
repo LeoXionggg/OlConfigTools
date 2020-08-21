@@ -20,7 +20,7 @@
  
  
 
->配置文件 Settings.xml 
+#### 配置文件 Settings.xml 
 
 * Company 对应多套不同的配置
     * Name 配置名称，不应有重复
@@ -30,7 +30,7 @@
         * SMTPServer 邮箱smtp服务地址
         * DefaultAccount 是否默认号帐，取值：TRUE/FALSE
 
-### 以下是个例子
+#### 以下是个例子
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
 <PrfSetInfos>
@@ -60,10 +60,10 @@ prf文件详细说明请见微软官方文档
 ## 工具适用性
 
 ### 以下系统级outlook 版本测试运行通过
-> Win7 32bit
- >> Outlook 2010
-> Win10 64bit
- >> Outlook 2019
+* Win7 32bit
+ * Outlook 2010
+* Win10 64bit
+ * Outlook 2019
 
 
 ## 开发语言
