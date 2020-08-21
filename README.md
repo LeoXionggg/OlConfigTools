@@ -18,7 +18,7 @@
 
 ### 使用说明
  
- 
+ ![](https://github.com/LeoXionggg/OlConfigTools/blob/master/man.jpg) 
 
 #### 配置文件 Settings.xml 
 
