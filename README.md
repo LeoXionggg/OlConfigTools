@@ -61,9 +61,9 @@ prf文件详细说明请见微软官方文档
 
 ### 以下系统级outlook 版本测试运行通过
 >> Win7 32bit
- >>> Outlook 2010
+ >> Outlook 2010
 >> Win10 64bit
- >>> Outlook 2019
+ >> Outlook 2019
 
 
 ## 开发语言
