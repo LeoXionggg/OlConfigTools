@@ -15,7 +15,6 @@
 
 
 
-
 ### 使用说明
  
  ![](https://github.com/LeoXionggg/OlConfigTools/blob/master/man.jpg) 
@@ -52,8 +51,11 @@
   </Company>     
 </PrfSetInfos>
 ```
-Templ.prf 为导入模板文件，是文本格式，可以根据要求进行更多的修改。
-prf文件详细说明请见微软官方文档 
+
+
+### 模板文件Templ.prf 
+
+其为文本格式，可以根据要求进行更多的修改。prf文件详细说明请见微软官方文档 
 [使用 Outlook 配置文件 (PRF) 文件自定义 Outlook 配置文件](https://docs.microsoft.com/zh-cn/previous-versions/office/office-2010/cc179062(v=office.14)?redirectedfrom=MSDN#BKMK_Overview)
 
 
