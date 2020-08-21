@@ -15,6 +15,5 @@
              POP3Server="pop.126.com"
              SMTPServer="smtp.126.com"
              DefaultAccount="TRUE" /> 
-  </Company>
-     
+  </Company>     
 </PrfSetInfos>
