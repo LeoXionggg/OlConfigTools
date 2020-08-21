@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PrfSetInfos>
+  <Company Name="My">
+    <Account AccountSufix="163.com"
+             POP3Server="pop.163.com"
+             SMTPServer="smtp.163.com"
+             DefaultAccount="TRUE" />
+    <Account AccountSufix="qq.net"
+             POP3Server="pop.qq.com"
+             SMTPServer="smtp.qq.com"
+             DefaultAccount="" />
+  </Company>
+  <Company Name="SHE">
+    <Account AccountSufix="126.com"
+             POP3Server="pop.126.com"
+             SMTPServer="smtp.126.com"
+             DefaultAccount="TRUE" /> 
+  </Company>
+     
+</PrfSetInfos>
